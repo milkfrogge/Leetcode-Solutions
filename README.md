@@ -8,5 +8,7 @@
 - #13 Roman to Integer (https://leetcode.com/problems/roman-to-integer)
 - #17 Letter Combinations of a Phone Number (https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - #46 Permutations (https://leetcode.com/problems/permutations/)
+- #1929 Concatenation of Array (https://leetcode.com/problems/concatenation-of-array/)
+
 
 ## Plans:
