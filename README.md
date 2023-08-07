@@ -8,6 +8,7 @@
 - #13 Roman to Integer (https://leetcode.com/problems/roman-to-integer)
 - #14 Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/)
 - #17 Letter Combinations of a Phone Number (https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- #30 Substring with Concatenation of All Words (https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - #46 Permutations (https://leetcode.com/problems/permutations/)
 - #1929 Concatenation of Array (https://leetcode.com/problems/concatenation-of-array/)
 
