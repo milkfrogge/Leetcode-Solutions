@@ -11,6 +11,8 @@
 - #20 Valid Parentheses (https://leetcode.com/problems/valid-parentheses/)
 - #30 Substring with Concatenation of All Words (https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - #46 Permutations (https://leetcode.com/problems/permutations/)
+- #191 Number of 1 Bits (https://leetcode.com/problems/number-of-1-bits)
+
 - #1929 Concatenation of Array (https://leetcode.com/problems/concatenation-of-array/)
 
 
